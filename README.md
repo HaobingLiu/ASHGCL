@@ -1,4 +1,6 @@
 # ASHGCL
+This repo is for source code of Information Fusion 2025 paper "Incorporating attributes and multi-scale structures for heterogeneous graph contrastive learning".
+Paper Link: https://doi.org/10.1016/j.inffus.2025.103220
 ## Environment
 > python==3.10.15 \
 > scipy==1.11.2 \
